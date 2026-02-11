@@ -32,6 +32,6 @@
     "href": "posts/notebook demo/index.html",
     "title": "portfolio",
     "section": "",
-    "text": "Running cells with 'Python 3.14.3' requires the ipykernel package.\n\n&lt;a href='command:jupyter.createPythonEnvAndSelectController'&gt;Create a Python Environment&lt;/a&gt; with the required packages.\n\nOr install 'ipykernel' using the command: '/opt/homebrew/bin/python3 -m pip install ipykernel -U --user --force-reinstall'"
+    "text": "print(\"Hello, world!\")\n\nHello, world!"
   }
 ]
