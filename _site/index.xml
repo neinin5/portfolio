@@ -12,6 +12,33 @@
 <generator>quarto-1.8.27</generator>
 <lastBuildDate>Wed, 11 Feb 2026 00:00:00 GMT</lastBuildDate>
 <item>
+  <title>Notebook Demo</title>
+  <dc:creator>Your Name</dc:creator>
+  <link>https://your-website-url.example.com/posts/notebook demo/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div id="a184a28d" class="cell" data-execution_count="2">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="bu" style="color: null;
+background-color: null;
+font-style: inherit;">print</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Hello, world!"</span>)</span></code></pre></div></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>Hello, world!</code></pre>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/notebook demo/</guid>
+  <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
   <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>
   <link>https://your-website-url.example.com/posts/post-with-code/</link>
